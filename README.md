@@ -1,1 +1,1 @@
-Hi thus is test file.
+Hi this is test file.
